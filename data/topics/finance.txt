@@ -1258,6 +1258,7 @@ Foreign investment information
 Investment by a foreign entity in Australia may require the formal submission of a proposal. This is subject to approval by the Australian Foreign Investment Review Board (FIRB).
 The FIRB examines proposals and advises the Australian Government on whether those proposals are suitable for approval under the Government's policy. Whether a proposal is required to be submitted to FIRB by the investor depends on the monetary value, the nature of the investment, and type of investor.
 For details on investments requiring submission, see FIRB: Monetary Thresholds.
+IMF International Monetary Fund
 Investor obligations
 Investors are expected to understand Australia’s regulatory environment and abide by all the relevant requirements. The Foreign Investment Review Board website provides guidance on some of the obligations that foreign investors need to consider.
 For information on these obligations, see FIRB: Investor Obligations
