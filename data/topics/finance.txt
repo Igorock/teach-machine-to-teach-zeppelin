@@ -2,22 +2,22 @@ Finance
 From Wikipedia, the free encyclopedia
 Finance is a field that deals with the study of investments. It includes the dynamics of assets and liabilities over time under conditions of different degrees of uncertainties and risks. Finance can also be defined as the science of money management. Market participants aim to price assets based on their risk level, fundamental value, and their expected rate of return. Finance can be broken into three sub-categories: public finance, corporate finance and personal finance.
 Contents
-1	Areas of finance
-1.1	Personal finance
-1.2	Corporate finance
-1.2.1	Financial services
-1.3	Public finance
-2	Capital
-3	Financial theory
-3.1	Financial economics
-3.2	Financial mathematics
-3.3	Experimental finance
-3.4	Behavioral finance
-4	Professional qualifications
-5	Unsolved problems in finance
-6	See also
-7	References
-8	External links
+Areas of finance
+Personal finance
+Corporate finance
+1.Financial services
+Public finance
+Capital
+Financial theory
+Financial economics
+Financial mathematics
+Experimental finance
+Behavioral finance
+Professional qualifications
+Unsolved problems in finance
+See also
+References
+External links
 Areas of finance
 Frankfurt Stock Exchange, European Center of finance, Frankfurt am Main.
 Wall Street, American centre of finance.
@@ -131,17 +131,17 @@ In finance, the benefit from investment is called a return. The return may consi
 Investors generally expect higher returns from riskier investments. Financial assets range from low-risk, low-return investments, such as high-grade government bonds, to those with higher risk and higher expected commensurate reward, such as emerging markets stock investments.
 Investors, particularly novices, are often advised to adopt a particular investment strategy and diversify their portfolio. Diversification has the statistical effect of reducing overall risk.
 Contents
-1	Related terms
-2	Famous investors
-3	Intermediaries and collective investments
-4	History
-5	Value investment
-6	Free cash flow and capital structure
-7	EBITDA
-8	Types of financial investment
-9	See also
-10	References
-11	External links
+Related terms
+Famous investors
+Intermediaries and collective investments
+History
+Value investment
+Free cash flow and capital structure
+EBITDA
+Types of financial investment
+See also
+References
+External links
 Related terms
 Investment differs from arbitrage, in which profit is generated without investing capital or bearing risk.
 An investor may bear a risk of loss of some or all of their capital invested, whereas in saving (such as in a bank deposit) the risk of loss in nominal value is normally remote. (Note that if the currency of a savings account differs from the account holder's home currency, then there is the risk that the exchange rate between the two currencies will move unfavorably, so that the value in the account holder's home currency of the savings account decreases.)
@@ -257,8 +257,8 @@ Population below poverty line
 Gini coefficient
 Increase 40 (2017 est.)
 Labor force
-160.5 million (2017)
-7.5 million unemployed (February 2017)
+million (2017)
+million unemployed (February 2017)
 Labor force by occupation
 farming, forestry, and fishing: 0.7%
 manufacturing, extraction, transportation, and crafts: 20.3%
@@ -330,69 +330,64 @@ The U.S. economy is fueled by abundant natural resources, a well-developed infra
 The United States has one of the world's largest and most influential financial markets. The New York Stock Exchange is by far the world's largest stock exchange by market capitalization. Foreign investments made in the U.S. total almost $2.4 trillion, while American investments in foreign countries total over $3.3 trillion. The economy of the U.S. leads in international ranking on venture capital and Global Research and Development funding. Consumer spending comprises 71% of the U.S. economy in 2013. The United States has the largest consumer market in the world, with a household final consumption expenditure five times larger than that of Japan. The labor market has attracted immigrants from all over the world and its net migration rate is among the highest in the world. The U.S. is one of the top-performing economies in studies such as the Ease of Doing Business Index, the Global Competitiveness Report, and others.
 The U.S. economy went through an economic downturn following the financial crisis of 2007–08, with output as late as 2013 still below potential according to the Congressional Budget Office. The economy, however, began to recover in the second half of 2009, and as of October 2017, unemployment had declined from a high of 10% to 4.1%. In December 2014, public debt was slightly more than 100% of GDP. Domestic financial assets totaled $131 trillion and domestic financial liabilities totaled $106 trillion.
 Contents
-1	History
-1.1	Colonial era and 18th century
-1.2	19th century
-1.3	20th century
-1.4	21st century
-2	GDP
-2.1	GDP growth
-2.2	GDP by industry
-3	By economic sector
-3.1	Nominal GDP sector composition
-4	Employment
-4.1	Unemployment
-4.2	Employment by sector
-5	Income and wealth
-5.1	Home ownership
-5.2	Profits and wages
-5.3	Poverty
-6	Health care
-7	Composition of economic sectors
-8	Energy, transportation, and telecommunications
-9	International trade
-10	Financial position
-11	Currency and central bank
-12	Law and government
-12.1	Regulations
-12.2	Taxation
-12.3	Expenditure
-12.4	Budget
-13	Business culture
-14	Demographic shift
-15	Entrepreneurship
-16	Venture capital investment
-17	Mergers and Acquisitions
-18	Research and development
-18.1	Impact of recession on research spending
-18.2	Business spending on research
-18.3	Research spending at the state level
-18.4	Research spending by multinational corporations
-18.5	Exports of high-tech goods and patents
-19	Notable companies and markets
-19.1	Forbes top 10 U.S. corporations by revenue
-20	Finance
-21	Historical statistics
-21.1	GDP
-21.2	Employment
-21.3	Manufacturing
-21.4	Wealth and Income
-21.5	Productivity
-21.6	Inequality
-21.7	Health spending
-21.8	Tariff rates
-21.9	Trade balance
-21.10	Inflation
-21.11	Federal tax
-21.12	Government spending
-21.13	Debt
-21.14	Deficit
-22	List of state economies
-23	See also
-24	Sources
-25	References
-26	External links
 History
+Colonial era and 18th century
+19th century
+20th century
+21st century
+GDP
+GDP growth
+GDP by industry
+By economic sector
+Nominal GDP sector composition
+Employment
+Unemployment
+Employment by sector
+Income and wealth
+Home ownership
+Profits and wages
+Poverty
+Health care
+Composition of economic sectors
+Energy, transportation, and telecommunications
+International trade
+Financial position
+Currency and central bank
+Law and government
+Regulations
+Taxation
+Expenditure
+Budget
+Business culture
+Demographic shift
+Entrepreneurship
+Venture capital investment
+Mergers and Acquisitions
+Research and development
+Impact of recession on research spending
+Business spending on research
+Research spending at the state level
+Research spending by multinational corporations
+Exports of high-tech goods and patents
+Notable companies and markets
+Forbes top 10 U.S. corporations by revenue
+Finance
+Historical statistics
+GDP
+Employment
+Manufacturing
+Wealth and Income
+Productivity
+Inequality
+Health spending
+Tariff rates
+Trade balance
+Inflation
+Federal tax
+Government spending
+Debt
+Deficit
+List of state economies
 Colonial era and 18th century
 The economic history of the United States began with American settlements in the 17th and 18th centuries. The American colonies went from marginally successful colonial economies to a small, independent farming economy, which in 1776 became the United States of America.
 19th century
@@ -427,10 +422,10 @@ Nominal GDP sector composition
 Nominal GDP sector composition, 2015 (in millions of dollars) at 2005 constant prices
 №	Country/Economy	Real GDP	Agri.	Indus.	Serv.
 –	  World	60,093,221	1,968,215	16,453,140	38,396,695
-1	 United States	15,160,104	149,023	3,042,332	11,518,980
+United States	15,160,104	149,023	3,042,332	11,518,980
 Nominal GDP Sector Composition, 2016 (in millions of dollars) at current prices.
 №	Country/Economy	Nominal GDP	Agri.	Indus.	Serv.
-1	 United States	18,624,450	204,868.95	3,613,143.3	14,806,437.75
+United States	18,624,450	204,868.95	3,613,143.3	14,806,437.75
 *Percentages from CIA World Factbook 
 Employment
 There are approximately 154.4 million employed individuals. The US. Government is the largest employment sector with 22 million.  Small businesses are the largest employer in the country representing 53% of U.S. workers. The second-largest share of employment belongs to large businesses that employ 38% of the U.S. workforce.
@@ -451,25 +446,15 @@ Year-on-year change in total net worth of U.S. households and nonprofit organiza
 Net worth in the United States, 2006–2015
 Year
 Wealth (billions in USD)
-2006
 66,095
-2007
 66,577
-2008
 56,214
-2009
 58,094
-2010
 62,316
-2011
 63,545
-2012
 69,598
-2013
 79,383
-2014
 84,201
-2015
 87,250
 As of Q4 2013, total household net worth in the United States is $80.664 trillion, an increase of $9.8 trillion from 2012. Employee compensation amounts to $8.969 trillion, while gross private investment totals $2.781 trillion. The mean net worth of U.S. adults increased to $301,140 in 2013, with the majority being held in financial assets, due to higher activity by shareholders and more private investment.
 Americans have the highest average household income among OECD nations, and in 2010 had the fourth-highest median household income, down from second-highest in 2007. According to one analysis middle-class incomes in the United States fell into a tie with those in Canada in 2010, and may have fallen behind by 2014, while several other advanced economies have closed the gap in recent years. According to the Census Bureau, inflation-adjusted household income reached an all-time high of $59,039 in 2016, with record gains in recent years. Income inequality is also at record highs, with the top fifth of earners taking home more than 50% of all overall income. According to a September 2017 report by the Federal Reserve, wealth inequality is at record highs as well; the top 1% controlled 38.6% of the country's wealth in 2016. The Boston Consulting Group posited in June 2017 report that 1% of the Americans will control 70% of country's wealth by 2021.
@@ -564,11 +549,8 @@ Paper	−2.7	1.2	1.1	4.3	1.2	−9.8	0.9	−1.9
 Chemical	−3.9	−39.5	−1.5	19.1	3.2	4.6	−2.4	15.8
 -4.7
 Food	0.7	−3.6	6.1	4.9	0.9	0.1	1.4	−1.1
-9.5
 Agriculture	17.8	6.2	7.3	−3.0	5.7	−0.8	2.8	−6.5
-29.5
 Petroleum	0.6	−1.2	0.1	16.6	−2.0	−0.1	0.6	18.3
-32.9
 Total by Country/Area	−346.1	−106.1	-65.6	−54.9	−33.0	−29.0	−15.1	32.3
 Financial position
 The U.S. public debt was $909 billion in 1980, an amount equal to 33% of America's gross domestic product (GDP); by 1990, that number had more than tripled to $3.2 trillion—or 56% of GDP. In 2001 the national debt was $5.7 trillion; however, the debt-to-GDP ratio remained at 1990 levels. Debt levels rose quickly in the following decade, and on January 28, 2010, the U.S. debt ceiling was raised to $14.3 trillion. Based on the 2010 United States federal budget, total national debt will grow to nearly 100% of GDP, versus a level of approximately 80% in early 2009. The White House estimates that the government's tab for servicing the debt will exceed $700 billion a year in 2019, up from $202 billion in 2009.
@@ -1272,4 +1254,4 @@ After the regular liquidity pushes of 2016, the Chinese government has now shift
 Furthermore, the bank warns that "things were too good to be sustainable earlier in the year, with many commodities trading out of cost curves. Cyclically, that means commodity positioning should be generally defensive, with even those commodities having raw material constraints under pressure. But as the reflation tide goes out, it gives an opportunity to discern which commodities genuinely have strong fundamentals. Structurally, it is a time to start picking longer-term winners."
 And so, once again we go to the credit impulse and the (re)flation cycle, which has in recent years originated almost exclusively in China.
 So what does that mean from a commodity cycle standpoint: as Macquarie notes, demand leads and supply reacts, with a lag. And the factor which facilitates this process is price.
-2017 looks to be providing another classic example of this simple commodity rule, one we have seen played out again and again. Those which traded out the cost curve in 2016 are seeing the strongest positive supply reaction (before disruptions), and those which have consistently traded into the cost curve a supply decline in the main. Coming months will find out the extent to which supply-side flexibility exists across various commodities.
+looks to be providing another classic example of this simple commodity rule, one we have seen played out again and again. Those which traded out the cost curve in 2016 are seeing the strongest positive supply reaction (before disruptions), and those which have consistently traded into the cost curve a supply decline in the main. Coming months will find out the extent to which supply-side flexibility exists across various commodities.
