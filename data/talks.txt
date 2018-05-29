@@ -6,26 +6,18 @@ Spring Framework 5: Feature Highlights & Hidden Gems
 Containerising bootiful microservices
 Natural language processing pipeline with Apache Spark
 Docker as productivity boost for Java developer
-Graal, Truffle, SubstrateVM and other perks: what are those and why do you need them
 Designing Fault Tolerant Microservices
-Virtual machine for regular expressions
-Developing multiplatform projects in Kotlin
 Hexagonal Architecture with Spring Boot
 We merged Apache Cassandra and Apache Solr under an unified API: guess what happened?
-Fast and accurate metrics. Is it actually possible?
 Spring: current state and future trends
 Java 9/10: new features
-Kotlin: new silver bullet or the future
 Reactive Thinking in Java
 Tricky Java Generics
 Java EE 8: What Servlet 4.0 and HTTP/2 mean to you
 Search and analyze your data with ElasticSearch
-Everything I Ever Learned About JVM Performance Tuning at Twitter
-When Bias in Product Design Means Life or Death
 A Machine Learning Win at GitHub ...and So Can You!Rapid Java Web Development with Ratpack
 How to Create Magical Data Products Using Sequence-to-Sequence ModelsStreams, flows and storms – how not to drown with your data?
 Using Machine Learning to Increase Health Insurance CoverageJUnit 5: Next Generation Testing on the JVM
-ML Spends A Year In BurgundyRxJava Applied: Concise Examples where It Shines
 Machine Learning, Art and JavaScriptDifferent flavors of polymorphism in Scala
 Java 8 Puzzlers: The strange, the bizarre and the wonderful
 Angular 2 for Java developers
@@ -34,50 +26,30 @@ No container: a Modern Java Stack with Bootique
 The Java Module System In Action
 Big Data-Driven Applications with Cassandra and Spark
 Mastering Scala in IntelliJ IDEA
-Hibernate, how the magic is really done?
 Java Wars 8: The Function Awakens
-Get along with JHipster
 Lord of the Spark or an easy way for Java Developers to tame Big Data
 Hot and spicy Java with Lombok. Live!
 Code optimization and performance in Java 8
 Spring JTA: Principles of work with transactions
-Databases – the choice is yours
 How to cook Apache Kafka with Camel and Spring Boot
 Java EE Revisits Design Patterns
 WILD microSERVICES
 Spring Puzzlers – second season
-The Road to Reactive with RxJava
 Spring Boot under the Cover
-Hibernate performance tuning
 Teach Machine To Teach: Personal Tutor For Language Learners
 Spring Integration: from XML configuration to Java DSL
-Vert.x – The problem of real-time data binding
-Cassandra clients puzzlers
-Building distributed applications with Akka and Akka Cluster
 Java EE Microservices Platforms – what’s in it for me?
 The Dark Side of MicroServices
 Tales from the trenches, developing Scala at scale
 Machine learning by example
 From Scala to Assembly — a view of Scala’s ByteCode
-Practical Introduction to Basic Cats Typeclasses
 User Behavior Analytics for Cyber Security and Its Implementation In Scala
-A Story of Casino Evolution with Akka
 Spark ML Meets Real Estate
-Evolution of ads management platform architecture from Akka Cluster to Akka Streams Kafka
 Hands-on Image Recognition with Scala, Spark and DeepLearning4j
-Visualising IoT devices with Akka and Grafana
-One year with akka-persistence: developer’s journal
-Integration testing of REST services using Akka Http
 The unexpected difficulties when moving to Scala
 Sangria — GraphQL APIs in Scala
-Datomic — the functional database
 Refactoring Monolith to Microservices
-Bring Functional Programming to production
-Project Trembita — Functional Data Pipelining
 Open Bank Project: Open source, open data, global banks, Scala and transparency. How did that happen?
-Advanced Patterns in Asynchronous Programming, Michael Arenzon & Assaf Ronen
 Machine Learning for Accessibility
 Eliminating Machine Bias
 Getting from Machine Learning Outputs to Decisions
-From Zero to Machine Learning for Everyone
-Your First NLP Machine Learning Project: Peaks and Pitfalls of Unstructured Data
